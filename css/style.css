@@ -212,7 +212,6 @@
     color:rgba(16, 24, 40, 1);
 }
 .formulario{
-    background-color: aqua;
     height: 430px;
     padding: 96px 0;
     background-color: rgba(249, 250, 251, 1);
@@ -242,6 +241,7 @@
     line-height: 24px;
     color: rgba(152, 162, 179, 1);
 }
+
 
 @media (max-width:600px){
     
