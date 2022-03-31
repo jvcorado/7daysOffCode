@@ -266,15 +266,15 @@
     } 
     .depoimentos{
         height: auto;
+        
     }
     .depoimentos .container-fluid{
         padding-top: 20px;
         height: auto;
+        margin-bottom: 30px;
     }
     .depoimentos h2{
         font-size: 1.5rem;
-        
-         
     }
     .formulario h2{
         font-size: 1.8rem;
